@@ -1020,6 +1020,7 @@ declare namespace Konva {
     lineHeight?: number;
     wrap?: string;
     ellipsis?: boolean;
+    textDecoration?: string;
   }
 
   class Text extends Shape {
